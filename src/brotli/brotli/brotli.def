@@ -1,0 +1,9 @@
+LIBRARY "brotli"
+
+EXPORTS
+     InitCompression
+     DeInitCompression
+     CreateCompression
+     Compress
+     DestroyCompression
+     ResetCompression
